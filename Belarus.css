@@ -1,11 +1,7 @@
 *{
     background-color: antiquewhite;
 }
-.mainbox{
-   margin: 0;
-   
-}
-.mainbox .box{
+.box{
     transform: translate(500px,160px);
 }
 .onebox{
