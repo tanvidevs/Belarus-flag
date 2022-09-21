@@ -6,7 +6,9 @@
    
 }
 .mainbox .box{
-  transform: translate(37.5%,50%);
+    background-image: url(/img.png);
+    width: 30px;
+    transform: translate(500px,160px);
 }
 .onebox{
     height: 300px;
