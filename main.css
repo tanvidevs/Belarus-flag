@@ -6,7 +6,7 @@
    
 }
 .mainbox .box{
-   transform: translate(500px,160px);
+  transform: translate(37.5%,50%);
 }
 .onebox{
     height: 300px;
